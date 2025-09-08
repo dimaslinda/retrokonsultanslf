@@ -21,7 +21,7 @@
     <header>
         <nav class="bg-white">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
-                <a href="https://flowbite.com" class="flex items-center space-x-3 rtl:space-x-reverse">
+                <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
                     <img src="{{ asset('img/general/logo.png') }}" class="h-10" alt="Flowbite Logo" />
                 </a>
                 <div class="flex items-center space-x-6 rtl:space-x-reverse">
